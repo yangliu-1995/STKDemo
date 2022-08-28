@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		031C694328BBB94F001DAD0F /* AutlayoutHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 031C694228BBB94F001DAD0F /* AutlayoutHelper.swift */; };
 		0352428F28BA6B2600CBB934 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0352428E28BA6B2600CBB934 /* AppDelegate.swift */; };
 		0352429128BA6B2600CBB934 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0352429028BA6B2600CBB934 /* SceneDelegate.swift */; };
 		0352429328BA6B2600CBB934 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0352429228BA6B2600CBB934 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		031C694228BBB94F001DAD0F /* AutlayoutHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutlayoutHelper.swift; sourceTree = "<group>"; };
 		0352428B28BA6B2600CBB934 /* STKDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = STKDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0352428E28BA6B2600CBB934 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0352429028BA6B2600CBB934 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			children = (
 				035242BD28BA6B9900CBB934 /* UIViewControllerExtension.swift */,
 				035242C328BA6CEF00CBB934 /* UIViewExtension.swift */,
+				031C694228BBB94F001DAD0F /* AutlayoutHelper.swift */,
 			);
 			path = STK;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				031C694328BBB94F001DAD0F /* AutlayoutHelper.swift in Sources */,
 				035242C428BA6CEF00CBB934 /* UIViewExtension.swift in Sources */,
 				035242C128BA6BC200CBB934 /* TestViewController.swift in Sources */,
 				035242BE28BA6B9900CBB934 /* UIViewControllerExtension.swift in Sources */,
